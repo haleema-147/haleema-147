@@ -5,7 +5,3 @@
 - 📫 How to reach me haleemaali147@gmail.com
 
 
-<!---
-haleema-147/haleema-147 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
